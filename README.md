@@ -29,7 +29,7 @@ This project is open-source and follows the MIT License. You are free to use and
 1)	Install and import the necessary Python libraries.  
 2)	Run the Jupyter notebook which contains the code to retrieve the data from the google document and the APIs, preprocess it, upload it into the output files and create the necessary visualizations. 
 
-## Errors Handled
+## Limitations
 The data for 2021, 2022 and 2023 was missing from the dataset. So, the analysis was restricted to the range of 1963 to 2020. Further, the US EPA Air Quality System API only provided data from 1986 onwards and also contained a few rows of missing data. Therefore, the visualization was created using data that was available from both data sources.
 
 ## Intermediate Files 
