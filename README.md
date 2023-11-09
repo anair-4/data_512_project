@@ -16,7 +16,7 @@ Further the following example notebook was used under the CC-BY license.
 Sample Notebook for AQI Generation - https://drive.google.com/file/d/1bxl9qrb_52RocKNGfbZ5znHVqFDMkUzf/view   
 Example Notebook for Reading in the Wildfire Data - https://drive.google.com/file/d/1qNI6hji8CvDeBsnLDAhJXvaqf2gcg8UV/view
 We also used the GeoJSON reader provided by Professor David McDonald for the above purpose under the same licence. 
-Link - https://drive.google.com/file/d/1TwCkvdaw0MxJzW7NSDg6XxYQ0dvaS44I/view
+Link - https://drive.google.com/file/d/1TwCkvdaw0MxJzW7NSDg6XxYQ0dvaS44I/view  
 CC-BY License - https://creativecommons.org/licenses/by/4.0/  
  
 ## Environment
